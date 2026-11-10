@@ -4,6 +4,8 @@
 
 # Run and deploy your AI Studio app
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-a3e635?style=flat&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/allanidrajith)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/4c39f668-8239-41a7-ac3d-f950fd464bf1
